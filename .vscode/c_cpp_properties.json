@@ -1,0 +1,16 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "C:\\Users\\Vixen666\\AppData\\Local\\Arduino15\\packages\\esp8266\\tools\\**",
+                "C:\\Users\\Vixen666\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\2.5.0\\**",
+                "C:\\Users\\Vixen666\\AppData\\Local\\Arduino15\\packages\\esp8266\\tools\\*",
+                "C:\\Users\\Vixen666\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\2.5.0\\*"
+            ],
+            "forcedInclude": [],
+            "intelliSenseMode": "msvc-x64"
+        }
+    ],
+    "version": 4
+}
